@@ -4,7 +4,7 @@ Controls:
 
 blue paddle:
 Z - left
-X = ringht
+X = right
 
 red paddle:
 Num1 - left
